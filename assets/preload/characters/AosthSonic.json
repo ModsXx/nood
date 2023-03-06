@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				343
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "S Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				345
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "S Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				345
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "S Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				344
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "S Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				345
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "S Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				349
+			],
+			"anim": "singUP-alt",
+			"fps": 14,
+			"name": "S Arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				348
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 14,
+			"name": "S Derecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				347
+			],
+			"anim": "singLEFT-alt",
+			"fps": 14,
+			"name": "S Izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				342
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "S Abajo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicSezOG",
+	"position": [
+		190,
+		100
+	],
+	"healthicon": "SSez",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		203
+	],
+	"camera_position": [
+		-1010,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}
